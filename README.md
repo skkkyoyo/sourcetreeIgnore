@@ -1,7 +1,7 @@
 # sourcetreeIgnore
 
 ---
-    ##sourcetree的默认忽略列表
+    ## sourcetree的默认忽略列表
 
 用sourcetree时发现有些文件被忽略了
 
